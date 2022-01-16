@@ -62,7 +62,7 @@ Download the BSP source
   $ PATH=${PATH}:~/bin
   $ mkdir rockwinner-bsp
   $ cd rockwinner-bsp
-  $ repo init -u https://github.com/VCTLabs/vct-rockwinner-bsp-platform -b poky-fido
+  $ repo init -u https://github.com/VCTLabs/vct-rockwinner-bsp-platform -b oe-dunfell
   $ repo sync
 
 At the end of the above commands you have all the metadata you need to start
